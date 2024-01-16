@@ -32,5 +32,5 @@ cool_mentor.courses_attached += ['Python']
 
 cool_mentor.rate_hw(best_student, 'Python', 10)
 cool_mentor.rate_hw(best_student, 'Python', 10)
-cool_mentor.rate_hw(best_student, 'Python', 10)
+cool_mentor.rate_hw(best_student, 'Python', 9 )
 
